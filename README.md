@@ -12,23 +12,24 @@ redundant and layered controls, continuous validation and testing, and a substan
 amount of automation to ensure that the underlying infrastructure is monitored and
 protected 24x7. AWS ensures that these controls are replicated in every new data
 center or service.
+
 Customers  get a resilient infrastructure, designed for high security, without the capital outlay and operational overhead of a 
 traditional data center.
 
 
 ### &#x1F536; Security Products and Features
 
-#### -Infrastructure Security
+#### Infrastructure Security
 
-#### -Intentory and Configuration Management
+#### Intentory and Configuration Management
 
-#### -Data Encryption
+#### Data Encryption
 
-#### -Identity and Access Control
+#### Identity and Access Control
 
-#### -Monitoring and Logging
+#### Monitoring and Logging
 
-#### -Security Products in AWS Marketplace
+#### Security Products in AWS Marketplace
 
 
 
