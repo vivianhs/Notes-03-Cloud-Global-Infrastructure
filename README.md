@@ -17,20 +17,21 @@ Customers  get a resilient infrastructure, designed for high security, without t
 traditional data center.
 
 
-### &#x1F536; Security Products and Features
+### AWS Global Infrastructure Terminology
 
-#### Infrastructure Security
+##### AWS Regions 
+Separated geographic areas that AWS uses to house its infrastructure. These regions are distributed around the world for customers to choose the region closest to them to host their cloud infrastructure. The closer region the better to reduce latency.
 
-#### Intentory and Configuration Management
+##### Best practices for choosing AWS Regions
+		Proximity
+		Services
+		Cost
+		Service Level Agreement (SLA)
 
-#### Data Encryption
+AWS Availability Zones (AZ)
+Is the logical building block that makes up an AWS Region. There are 76 AZ’s which are isolated locations or data centers, within a region. 
 
-#### Identity and Access Control
-
-#### Monitoring and Logging
-
-#### Security Products in AWS Marketplace
+# Edge Locations >> # of Availability Zones  >>> # of Regions
 
 
-
-
+#####AWS Infrastructure is Elastic and Scalable, resources can adjust to increases or decreases in capacity requirements. 
