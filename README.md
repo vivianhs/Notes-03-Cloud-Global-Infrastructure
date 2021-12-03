@@ -31,7 +31,7 @@ Separated geographic areas that AWS uses to house its infrastructure. These regi
 AWS Availability Zones (AZ)
 Is the logical building block that makes up an AWS Region. There are 76 AZ’s which are isolated locations or data centers, within a region. 
 
-# Edge Locations >> # of Availability Zones  >>> # of Regions
+#### Edge Locations >> # of Availability Zones  >>> # of Regions
 
 
-#####AWS Infrastructure is Elastic and Scalable, resources can adjust to increases or decreases in capacity requirements. 
+##### AWS Infrastructure is Elastic and Scalable, resources can adjust to increases or decreases in capacity requirements. 
